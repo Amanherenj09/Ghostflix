@@ -1,6 +1,6 @@
 # Flix Movie Website
 
-    How To Create Responsive Movie Website Using HTML CSS And jQuery
+Responsive Movie Website Using HTML CSS And jQuery
 
 # Preview
 
@@ -9,7 +9,7 @@
 
 # Description
 
-    We will make Responsive Movie Website Using HTML CSS And jQuery, Owl Carousel
+Responsive Movie Website Using HTML CSS And jQuery, Owl Carousel
 
 # Resource
 
